@@ -1,0 +1,36 @@
+main {
+    background-color: rgb(20, 25, 35);
+    background: linear-gradient(45deg, rgb(13, 17, 24) 0%, rgb(8, 23, 61) 35%, rgb(10, 13, 19) 100%);
+    font-size: 3vh;
+    padding: 1em;
+}
+
+main .row {
+    justify-content: space-around;
+}
+
+.col-12 {
+    margin-bottom: 1em;
+}
+
+div.card {
+    background-color: rgb(35, 40, 42);
+    font-size: 1.8vh;
+    letter-spacing: -0.025em;
+    height: 100%;
+    box-shadow: 1em 0em 1em rgba(0, 0, 0, 0.397);
+    padding: 1em;
+}
+
+div.card img {
+    width: 100%;
+}
+
+div.card h3 {
+    font-size: 2vh;
+    letter-spacing: 0.1em;
+}
+
+div.card p {
+    padding: 1em;
+}
